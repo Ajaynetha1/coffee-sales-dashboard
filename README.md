@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that analyses coffee shop sales across months, times of day and drink types, to show what sells, when it sells and where revenue is won or lost.
 
-![Coffee Sales Dashboard](images/dashboard.png)
+![Coffee Sales Dashboard](Images/dashboard.png)
 
 ## Business Problem
 
